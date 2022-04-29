@@ -52,6 +52,7 @@ if __name__=="__main__":
         speak("hello i am jarvis coded by trisha on 26th march 2022")
         wish()
         query=takeCommand().lower()
+print("give command as per your need")
 #logic to execute tasks based on query
 
         if 'wikipedia' in query:
