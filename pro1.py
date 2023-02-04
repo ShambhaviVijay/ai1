@@ -65,6 +65,11 @@ if __name__=="__main__":
                 webbrowser.open("youtube.com")
         elif 'open google' in query:
                 webbrowser.open("google.com")
+                
+        
+        #here you can visit github also to open github
+        elif 'open github' in query:
+                webbrowser.open("github.com")
        
 
         elif 'the time' in query:
